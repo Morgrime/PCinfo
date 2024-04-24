@@ -2,7 +2,6 @@ import platform
 import shutil
 import PySimpleGUI as sg
 import subprocess
-import re
 
 
 layout = [
